@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\KONSTRUKSI PERANGKAT LUNAK\\tpmodul8_103082400001\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC44B938-974B-4C51-8ADE-CF101E779DE2}|tpmodul8_103082400001\\tpmodul8_103082400001.csproj|d:\\konstruksi perangkat lunak\\tpmodul8_103082400001\\tpmodul8_103082400001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC44B938-974B-4C51-8ADE-CF101E779DE2}|tpmodul8_103082400001\\tpmodul8_103082400001.csproj|solutionrelative:tpmodul8_103082400001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68D1D78F-D83A-F1EA-C9C4-5DB59507D4EC}|tpmodul8_103082400001\\tpmodul8_103082400001.csproj|d:\\konstruksi perangkat lunak\\tpmodul8_103082400001\\tpmodul8_103082400001\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D1D78F-D83A-F1EA-C9C4-5DB59507D4EC}|tpmodul8_103082400001\\tpmodul8_103082400001.csproj|solutionrelative:tpmodul8_103082400001\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D1D78F-D83A-F1EA-C9C4-5DB59507D4EC}|tpmodul8_103082400001\\tpmodul8_103082400001.csproj|d:\\konstruksi perangkat lunak\\tpmodul8_103082400001\\tpmodul8_103082400001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D1D78F-D83A-F1EA-C9C4-5DB59507D4EC}|tpmodul8_103082400001\\tpmodul8_103082400001.csproj|solutionrelative:tpmodul8_103082400001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D1D78F-D83A-F1EA-C9C4-5DB59507D4EC}|tpmodul8_103082400001\\tpmodul8_103082400001.csproj|d:\\konstruksi perangkat lunak\\tpmodul8_103082400001\\tpmodul8_103082400001\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68D1D78F-D83A-F1EA-C9C4-5DB59507D4EC}|tpmodul8_103082400001\\tpmodul8_103082400001.csproj|solutionrelative:tpmodul8_103082400001\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CovidConfig.cs",
+              "DocumentMoniker": "D:\\KONSTRUKSI PERANGKAT LUNAK\\tpmodul8_103082400001\\tpmodul8_103082400001\\CovidConfig.cs",
+              "RelativeDocumentMoniker": "tpmodul8_103082400001\\CovidConfig.cs",
+              "ToolTip": "D:\\KONSTRUKSI PERANGKAT LUNAK\\tpmodul8_103082400001\\tpmodul8_103082400001\\CovidConfig.cs",
+              "RelativeToolTip": "tpmodul8_103082400001\\CovidConfig.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T10:17:36.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "covid_config.json",
+              "DocumentMoniker": "D:\\KONSTRUKSI PERANGKAT LUNAK\\tpmodul8_103082400001\\tpmodul8_103082400001\\covid_config.json",
+              "RelativeDocumentMoniker": "tpmodul8_103082400001\\covid_config.json",
+              "ToolTip": "D:\\KONSTRUKSI PERANGKAT LUNAK\\tpmodul8_103082400001\\tpmodul8_103082400001\\covid_config.json",
+              "RelativeToolTip": "tpmodul8_103082400001\\covid_config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-25T10:09:55.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\KONSTRUKSI PERANGKAT LUNAK\\tpmodul8_103082400001\\tpmodul8_103082400001\\Program.cs",
               "RelativeDocumentMoniker": "tpmodul8_103082400001\\Program.cs",
               "ToolTip": "D:\\KONSTRUKSI PERANGKAT LUNAK\\tpmodul8_103082400001\\tpmodul8_103082400001\\Program.cs",
               "RelativeToolTip": "tpmodul8_103082400001\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-25T09:53:11.33Z",
               "EditorCaption": ""
